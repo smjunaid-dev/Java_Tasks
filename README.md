@@ -201,6 +201,6 @@ git push
 
 <div align="center">
 
-**Built as part of the HCL Java Internship Training** ☕
+**Built as part of the Java Internship Training** ☕
 
 </div>
