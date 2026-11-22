@@ -2,7 +2,7 @@
 
 # ☕ Java Weekly Tasks
 
-### HCL Java Internship Training
+### Java Internship Training
 
 A collection of four independent Java modules covering core OOP, collections, the Stream API, and the modern Date-Time API.
 
