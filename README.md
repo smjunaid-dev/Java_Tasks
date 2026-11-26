@@ -11,7 +11,7 @@ A collection of four independent Java modules covering core OOP, collections, th
 ![Build](https://img.shields.io/badge/Build-javac-success)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)  
 
-</div>
+</div>     
 
 ---
 
