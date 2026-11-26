@@ -9,7 +9,7 @@ A collection of four independent Java modules covering core OOP, collections, th
 ![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk&logoColor=white)
 ![Modules](https://img.shields.io/badge/Modules-4-blue)
 ![Build](https://img.shields.io/badge/Build-javac-success)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)  
 
 </div>
 
